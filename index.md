@@ -1,15 +1,9 @@
-## Welcome to GitHub Pages
+## Mateo Arbelaez
+### Description
 
-You can use the [editor on GitHub](https://github.com/mateoa2/mateoa2.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Ph.D. student at the University of Illinois at Urbana-Champaign. I am interested in studying local labor markets in developed and developing economies, as well as the relationship between shocks in local labor markets and migration .
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
