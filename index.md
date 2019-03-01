@@ -2,11 +2,11 @@
 This website is under construction
 
 
-[Old website link: ](https://sites.google.com/view/mateoarbe/main)
+[Old website link ](https://sites.google.com/view/mateoarbe/main)
 
-Institutional website: ](https://economics.illinois.edu/profile/mateoa2)
+[Institutional website ](https://economics.illinois.edu/profile/mateoa2)
 
-[Twitter:](https://twitter.com/mateoarbeparra)
+[Twitter](https://twitter.com/mateoarbeparra)
 
 
 ### Description
