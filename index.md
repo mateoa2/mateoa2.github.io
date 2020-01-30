@@ -8,6 +8,7 @@ This website is under construction
 
 [Twitter](https://twitter.com/mateoarbeparra)
 
+![](WOKBogota.jpg)
 
 ### Description
 
