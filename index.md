@@ -1,4 +1,5 @@
 ## Mateo Arbelaez
+<img src="WOKBogota.jpeg" width = "150">
 This website is under construction
 
 
@@ -9,7 +10,7 @@ This website is under construction
 [Twitter](https://twitter.com/mateoarbeparra)
 
 
-<img src="WOKBogota.jpeg" width = "100">
+
 
 
 ### Description
