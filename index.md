@@ -9,7 +9,7 @@ This website is under construction
 [Twitter](https://twitter.com/mateoarbeparra)
 
 
-<img src="WOKBogota.jpeg" >
+<img src="WOKBogota.jpeg" width = "100">
 
 
 ### Description
