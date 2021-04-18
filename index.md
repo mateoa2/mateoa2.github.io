@@ -6,8 +6,8 @@ contact: passive
 notes: passive
 description: Mateo Arbelaez
 ---
-Just a Page <a href="Research.md" title = "Just a page">
-## Mateo Arbelaez-Parraasdasdasdasd
+[Research.md](Just a page)
+## Mateo Arbelaez-Parra
 <img src="WOKBogota.jpeg" width = "150">
 
 This website is under construction
