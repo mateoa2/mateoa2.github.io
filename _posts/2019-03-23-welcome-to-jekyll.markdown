@@ -4,7 +4,7 @@ title:  "Integrating razorpay into your webapp"
 date:   2019-03-23 21:03:36 +0530
 categories: Javascript NodeJS
 ---
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+I am a Ph.D. student at the University of Illinois at Urbana-Champaign. I am interested in studying local labor markets in developed and developing economies, as well as the relationship between shocks in local labor markets and migration .
 
 ```javascript
 const Razorpay = require('razorpay');
