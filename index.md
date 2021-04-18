@@ -1,5 +1,5 @@
 # RESEARCH
-[## Mateo Arbelaez-Parra](index.md)  [Research]  (Research.md)  [Teaching](Teaching.md)
+[## Mateo Arbelaez-Parra](index.md)  [Research](Research.md)  [Teaching](Teaching.md)
 
 <img src="WOKBogota.jpeg" width = "150">
 
