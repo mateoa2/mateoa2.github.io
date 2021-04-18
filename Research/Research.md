@@ -6,7 +6,7 @@ Concentrating efforts on low-performing schools: Impact estimates from a quasi-e
 ### Working papers
 Endogenous Persistent Shocks and Households' Welfare. With [Leopoldo Fergusson](https://economia.uniandes.edu.co/index.php?option=com_profesor&view=profesorp&profesor=14&Itemid=578), and [Andrés Zambrano](https://economia.uniandes.edu.co/index.php?option=com_profesor&view=profesorp&profesor=38&Itemid=578)
 
-# Selected work in progress
+### Selected work in progress
 
 Can Forced Displacement Explain the Rise in Labor Force With [Juan Sebastían Muñoz](https://sites.google.com/site/juansebastianmunoz87/)
 
