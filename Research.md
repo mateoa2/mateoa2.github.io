@@ -1,3 +1,13 @@
+---
+layout: default
+title: Research
+home: passive
+research: active
+software: passive
+projects: passive
+notes: passive
+contact: passive
+---
 ## Research
 
 ### Published papers
