@@ -7,7 +7,6 @@ software: passive
 projects: passive
 notes: passive
 contact: passive
-description: Mauricio Olivares' research page.
 ---
 ## Research
 

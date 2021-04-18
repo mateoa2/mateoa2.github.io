@@ -1,3 +1,11 @@
+---
+layout: default
+title: Mauricio Olivares
+cv: passive
+contact: passive
+notes: passive
+description: Mauricio Olivares is a PhD student in Economics at the University of Illinois. Currently based in Urbana, Illinois.
+---
 ## Mateo Arbelaez-Parra
 <img src="WOKBogota.jpeg" width = "150">
 
