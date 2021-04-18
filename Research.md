@@ -1,14 +1,5 @@
----
-layout: default
-title: Research
-home: passive
-research: active
-software: passive
-projects: passive
-notes: passive
-contact: passive
----
-## Research
+
+[## Mateo Arbelaez-Parra](index.md)[Research](Research.md)[Teaching](Teaching.md)
 
 ### Published papers
 Concentrating efforts on low-performing schools: Impact estimates from a quasi-experimental design. Economics of Education Review, 66, 73-91. With [Felipe Barrera-Osorio](https://www.gse.harvard.edu/faculty/felipe-barrera-osorio), [Sandra García Jaramillo](https://egob.uniandes.edu.co/index.php/es/?option=com_content&view=article&id=146), Catherine Rodriguez, and [Fabio Sanchez](https://economia.uniandes.edu.co/index.php?option=com_profesor&view=profesorp&profesor=32&Itemid=578).

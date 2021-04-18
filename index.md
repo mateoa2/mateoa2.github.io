@@ -1,13 +1,5 @@
----
-layout: default
-title: Mateo Arbelaez
-cv: passive
-contact: passive
-notes: passive
-description: Mateo Arbelaez
----
-[Just a page](Research.md)
-## Mateo Arbelaez-Parra
+# RESEARCH
+[## Mateo Arbelaez-Parra](index.md)[Research](Research.md)[Teaching](Teaching.md)
 <img src="WOKBogota.jpeg" width = "150">
 
 This website is under construction
