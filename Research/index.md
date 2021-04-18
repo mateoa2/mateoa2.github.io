@@ -1,3 +1,14 @@
+---
+layout: default
+title: Research
+home: passive
+research: active
+software: passive
+projects: passive
+notes: passive
+contact: passive
+description: Mauricio Olivares' research page.
+---
 ## Research
 
 ### Published papers
