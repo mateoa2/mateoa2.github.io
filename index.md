@@ -6,7 +6,7 @@ contact: passive
 notes: passive
 description: Mateo Arbelaez
 ---
-[Research.md](Just a page)
+[Just a page](Research.md)
 ## Mateo Arbelaez-Parra
 <img src="WOKBogota.jpeg" width = "150">
 
