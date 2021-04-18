@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Mauricio Olivares
+title: Mateo Arbelaez
 cv: passive
 contact: passive
 notes: passive
-description: Mauricio Olivares is a PhD student in Economics at the University of Illinois. Currently based in Urbana, Illinois.
+description: Mateo Arbelaez
 ---
-<a href="Research.md" title = "Just a page">
+Just a Page <a href="Research.md" title = "Just a page">
 ## Mateo Arbelaez-Parra
 <img src="WOKBogota.jpeg" width = "150">
 
