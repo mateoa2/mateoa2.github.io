@@ -1,0 +1,19 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	enroll	enroll	enroll
+				
+progresa_ben	Progresa beneficiary	0.039***	0.041**	0.040***
+		(0.013)	(0.016)	(0.011)
+intense_progresa_price_crop	Progresa X Crop Intensity X log(Crop Price)	-0.033	0.045	0.210*
+		(0.056)	(0.139)	(0.120)
+price_progresa_crop	Progresa X log(Crop Price)	0.030	0.009	-0.001
+		(0.039)	(0.038)	(0.015)
+intense_progresa_crop	Progresa X Crop Intensity	0.006	0.044	0.118
+		(0.018)	(0.054)	(0.085)
+crop_shock	log(Crop Price)* Share Planted w/ Crop	0.023	0.007	-0.033
+		(0.033)	(0.052)	(0.038)
+				
+Observations		90,787	90,787	90,787
+Outcome Mean		0.807	0.807	0.807
+Waves		1-5	1-5	1-5
+Standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

@@ -1,0 +1,13 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	enroll	enroll	enroll
+				
+progresa_ben	Progresa beneficiary	0.023***	0.023***	0.023***
+		(0.003)	(0.003)	(0.003)
+crop_shock	log(Crop Price)* Share Planted w/ Crop	0.009	-0.022	-0.009
+		(0.015)	(0.015)	(0.022)
+				
+Observations		151,379	151,379	151,379
+Outcome Mean		0.807	0.807	0.807
+Waves		1-7	1-7	1-7
+Standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				

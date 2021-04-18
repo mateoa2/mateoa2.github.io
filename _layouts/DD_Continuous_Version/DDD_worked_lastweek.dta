@@ -1,0 +1,19 @@
+		(1)	(2)	(3)
+VARIABLES	LABELS	worked_lastweek	worked_lastweek	worked_lastweek
+				
+progresa_ben	Progresa beneficiary	-0.014	-0.026*	-0.031***
+		(0.012)	(0.013)	(0.009)
+intense_progresa_price_crop	Progresa X Crop Intensity X log(Crop Price)	0.118**	-0.048	0.104
+		(0.047)	(0.115)	(0.098)
+price_progresa_crop	Progresa X log(Crop Price)	-0.070**	0.002	-0.003
+		(0.032)	(0.031)	(0.012)
+intense_progresa_crop	Progresa X Crop Intensity	-0.024	-0.043	0.108
+		(0.016)	(0.045)	(0.072)
+crop_shock	log(Crop Price)* Share Planted w/ Crop	-0.014	0.056	-0.014
+		(0.029)	(0.049)	(0.033)
+				
+Observations		75,594	75,594	75,594
+Outcome Mean		0.091	0.091	0.091
+Waves		1-5	1-5	1-5
+Standard errors in parentheses				
+*** p<0.01, ** p<0.05, * p<0.1				
