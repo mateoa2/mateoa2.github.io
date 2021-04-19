@@ -1,1 +1,7 @@
-theme: jekyll-theme-Plainwhite
+
+# Build settings
+theme: plainwhite
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
