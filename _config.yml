@@ -1,7 +1,3 @@
 
 # Build settings
-theme: plainwhite
-
-plugins:
-  - jekyll-seo-tag
-#  - jekyll-feed
+theme: jekyll-theme-slate
